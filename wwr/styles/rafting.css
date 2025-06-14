@@ -95,7 +95,7 @@ nav a {
   display: flex;
   overflow-x: auto;
   grid-template-columns: 150px 150px 150px;
-  grid-auto-flow: colums
+  grid-auto-flow: column;
   gap: 20px;
   justify-content: center;
   flex-wrap: wrap;
