@@ -142,7 +142,7 @@ footer .socials img {
   height: 30px;
   width: auto;
 }
-. {
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
