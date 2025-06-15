@@ -16,7 +16,7 @@ header {
   grid-template-columns: auto 1fr auto;
   align-items: center;
   padding: 1rem;
-  background-color: #00dbb7;
+  background-color: #00473c;
   color: white;
 }
 
@@ -129,7 +129,7 @@ footer {
   justify-content: space-between;
   align-items: center;
   padding: 1rem 2rem;
-  background-color: #00dbb7;
+  background-color: #00473c;
   color: white;
 }
 
@@ -196,7 +196,7 @@ form label, form input, form textarea {
 }
 
 button[type="submit"] {
-    background-color: #0288d1;
+    background-color: #004466;
     color: white;
     padding: 0.75rem 1.5rem;
     border: none;
